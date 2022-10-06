@@ -23,4 +23,6 @@
 
 <div style="display:inline_block"><br>
 <img aLign="center" alt="CSS"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-</div>
+</div><br>
+
+Atualmente estudando pela Allura e com o foco de me torna um Cientista de dados
