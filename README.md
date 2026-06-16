@@ -5,7 +5,23 @@ Data, Automation and Applied AI professional focused on building practical syste
 I work at the intersection of data analysis, process automation, conversational AI and technical documentation. My current focus is building a technical portfolio around RAG, FastAPI, Docker, AWS Bedrock, AI agent governance, knowledge bases and MLOps foundations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-senedese-7b110b205/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/senedas)
+
+---
+
+## Current Positioning
+
+I am currently focused on roles and projects related to:
+
+* Data Analysis
+* Business Intelligence
+* Process Automation
+* Applied AI
+* Conversational AI
+* AI Agent Governance
+* RAG Systems
+* MLOps Foundations
+
+My goal is to evolve toward AI Engineering and MLOps by building production-oriented projects that demonstrate API design, retrieval systems, agent governance, automation, documentation and safe AI deployment.
 
 ---
 
@@ -24,6 +40,8 @@ I work at the intersection of data analysis, process automation, conversational 
 ## Technical Skills
 
 My technical background combines data analysis, process automation, conversational AI and knowledge systems. I focus on building practical projects that connect operational data, documentation, AI agents and reproducible engineering workflows.
+
+---
 
 ### Data & BI
 
@@ -78,7 +96,7 @@ I use Python as my main language for automation, data processing, validation scr
 * Building production-oriented portfolio projects instead of notebook-only projects
 * Creating FastAPI services for RAG and AI assistants
 * Using Docker Compose to run APIs, vector databases and supporting services
-* Adding tests, `.env.example`, clear setup instructions and safe configuration patterns
+* Adding tests, `.env.example`, setup instructions and safe configuration patterns
 * Preparing for MLOps foundations such as MLflow, model serving and monitoring
 
 ---
@@ -115,11 +133,19 @@ My strongest current focus is applied AI: using LLMs, agents, RAG, prompt struct
 
 ## Portfolio Roadmap
 
+This roadmap represents the technical portfolio I am building to support my transition into AI Engineering, Applied AI and MLOps-oriented roles.
+
+---
+
 ### 1. Enterprise Agent RAG API
+
+**Status:** Planned / In progress
 
 A FastAPI-based RAG system for querying technical documentation and AI agent configuration knowledge.
 
-**Planned stack:**
+**Goal:** demonstrate document ingestion, embeddings, vector search, API design, citations and fallback behavior.
+
+**Planned / in progress stack:**
 
 * Python
 * FastAPI
@@ -129,28 +155,39 @@ A FastAPI-based RAG system for querying technical documentation and AI agent con
 * Markdown/PDF ingestion
 * Source citations
 * Fallback logic
+* pytest
 
 ---
 
 ### 2. Bedrock Operations Assistant
 
+**Status:** Planned
+
 An AWS Bedrock assistant for operational questions, with guardrails, structured logging, cost analysis and safe deployment practices.
+
+**Goal:** demonstrate cloud-based AI application design, guardrails, API integration and safe deployment practices.
 
 **Planned stack:**
 
 * Python
 * FastAPI
 * AWS Bedrock
-* Guardrails
+* Bedrock Guardrails
 * Docker
 * pytest
 * Structured logs
+* Cost analysis
+* Threat model documentation
 
 ---
 
 ### 3. AI Agent Governance Auditor
 
+**Status:** Planned
+
 A CLI tool that audits AI agent configurations for governance risks, including prompt injection exposure, sensitive data leakage, missing business rules and weak human fallback coverage.
+
+**Goal:** demonstrate AI governance, agent safety, configuration auditing and structured reporting.
 
 **Planned stack:**
 
@@ -160,12 +197,17 @@ A CLI tool that audits AI agent configurations for governance risks, including p
 * Markdown/JSON/CSV reports
 * Docker
 * pytest
+* Synthetic agent configuration samples
 
 ---
 
 ### 4. Enterprise ML Knowledge Base
 
+**Status:** Planned
+
 A technical knowledge base with ingestion, embeddings, vector search and evaluation scripts for AI/ML documentation.
+
+**Goal:** demonstrate knowledge management, RAG architecture, technical documentation and evaluation workflows.
 
 **Planned stack:**
 
@@ -175,6 +217,7 @@ A technical knowledge base with ingestion, embeddings, vector search and evaluat
 * Docker Compose
 * Evaluation scripts
 * Technical documentation
+* Markdown-based knowledge sources
 
 ---
 
@@ -186,22 +229,42 @@ My goal is to evolve into AI Engineering and MLOps by building production-orient
 * Retrieval systems
 * Conversational AI workflows
 * Agent governance
-* Automation
+* Process automation
 * Technical documentation
 * Safe AI deployment
 * Reproducible engineering practices
+
+I am especially interested in roles that combine data, automation, AI systems, operational workflows and technical documentation.
 
 ---
 
 ## Target Roles
 
+Current target roles aligned with my background and portfolio roadmap:
+
 * Data Analyst
 * BI Analyst
 * AI Automation Analyst
+* Process Automation Analyst
 * Conversational AI Analyst
 * AI Operations Analyst
+* Knowledge Base Analyst
 * Junior AI Engineer
 * Junior MLOps Engineer
+
+---
+
+## Learning Roadmap
+
+Current technical learning priorities:
+
+1. Strengthen SQL and Python for data and automation workflows
+2. Build FastAPI-based services for AI and RAG use cases
+3. Use Docker and Docker Compose for reproducible environments
+4. Apply testing with pytest and structured validation
+5. Build RAG systems with embeddings and vector databases
+6. Study AWS Bedrock, Guardrails and Amazon Lex
+7. Add MLOps foundations such as MLflow, model serving and monitoring
 
 ---
 
